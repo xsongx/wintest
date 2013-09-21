@@ -1,0 +1,6 @@
+@article{stone1966general,
+  title={The General Inquirer: A Computer Approach to Content Analysis.},
+  author={Stone, Philip J and Dunphy, Dexter C and Smith, Marshall S},
+  year={1966},
+  publisher={MIT press}
+}
