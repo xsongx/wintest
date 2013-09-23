@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @inproceedings{Takamura:2005:ESO:1219840.1219857,
  author = {Takamura, Hiroya and Inui, Takashi and Okumura, Manabu},
  title = {Extracting semantic orientations of words using spin model},
@@ -13,3 +14,11 @@
  publisher = {Association for Computational Linguistics},
  address = {Stroudsburg, PA, USA},
 } 
+=======
+@article{stone1966general,
+  title={The General Inquirer: A Computer Approach to Content Analysis.},
+  author={Stone, Philip J and Dunphy, Dexter C and Smith, Marshall S},
+  year={1966},
+  publisher={MIT press}
+}
+>>>>>>> 88c381b4c6c13ab0b700f2a725f66fe89f25ec15
