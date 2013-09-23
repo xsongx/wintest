@@ -1,0 +1,25 @@
+{Reference Type}: Journal Article
+{Title}: 基于知网和同义词词林的词汇语义倾向计算
+{Translated Title}: Semantic Orientation Computing Basedon HowNet&amp;Cilin
+{Author}: 黄硕
+{Author}: 周延泉
+{Translated Author}: HUANG Shuo
+{Translated Author}: ZHOU Yan-quan
+{Author Address}: 北京邮电大学计算机科学与技术系,北京,100876
+{Journal}: 软件
+{Translated Journal}: computer engineering &amp; Software
+{ISBN/ISSN}: 1003-6970
+{Year}: 2013
+{Volume}: 34
+{Issue}: 2
+{Pages}: 73-74,94
+{Keywords}: 情感计算
+{Keywords}: 知网
+{Keywords}: 同义词词林
+{Keywords}: 语义倾向
+{Abstract}: 在互联网飞速发展的今天,海量的数据在网络上共享传输,文本中的情感倾向获取对于文本的处理有着重要作用.而词汇的褒贬倾向研究是文本情感倾向研究的基础.本文基于知网(HowNet)和同义词词林信息融合的方法,为词林的词集添加知网def与情感倾向,进行词汇的语义倾向计算.实验结果表明,该方法更趋于合理,结果更符合人们的日常体验.
+{URL}: http://d.wanfangdata.com.cn/Periodical_ranj201302023.aspx
+{DOI}: 10.3969/j.issn.1003-6970.2013.02.023
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi
+
